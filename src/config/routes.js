@@ -1,5 +1,5 @@
-import Home from '../pages/Home';
-import Browse from '../pages/Browse';
+import HomePage from '@/components/pages/HomePage';
+import BrowsePage from '@/components/pages/BrowsePage';
 import PropertyDetail from '../pages/PropertyDetail';
 import MapView from '../pages/MapView';
 import Favorites from '../pages/Favorites';
@@ -12,14 +12,14 @@ export const routes = {
     label: 'Home',
     path: '/',
     icon: 'Home',
-    component: Home
+    component: HomePage
   },
-  browse: {
+browse: {
     id: 'browse',
     label: 'Browse Properties',
     path: '/browse',
     icon: 'Search',
-    component: Browse
+    component: BrowsePage
   },
   map: {
     id: 'map',
