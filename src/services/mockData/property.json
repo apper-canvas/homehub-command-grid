@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Luxury Home in Beverly Hills",
+    "price": 2850000,
+    "propertyType": "House",
+    "bedrooms": 5,
+    "bathrooms": 4.5,
+    "squareFeet": 4200,
+    "address": "1247 Summit Drive",
+    "city": "Beverly Hills",
+    "state": "CA",
+    "zipCode": "90210",
+    "description": "Stunning contemporary home featuring an open floor plan with floor-to-ceiling windows, gourmet kitchen with premium appliances, spa-like master suite, and resort-style backyard with pool and outdoor entertainment area. Located in the prestigious Beverly Hills area with easy access to shopping and dining.",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2075&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2053&q=80",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Gourmet Kitchen",
+      "Walk-in Closets",
+      "Hardwood Floors",
+      "Central Air Conditioning",
+      "Security System",
+      "2-Car Garage",
+      "Garden/Landscaping"
+    ],
+    "yearBuilt": 2019,
+    "listingDate": "2024-01-15T00:00:00.000Z",
+    "coordinates": {
+      "lat": 34.0901,
+      "lng": -118.4065
+    }
+  },
+  {
+    "id": "2",
+    "title": "Charming Victorian Townhouse",
+    "price": 875000,
+    "propertyType": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFeet": 2100,
+    "address": "456 Maple Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipCode": "94117",
+    "description": "Beautiful restored Victorian townhouse in the heart of San Francisco. Features original architectural details, modern updates throughout, private garden, and prime location near parks and public transportation. Perfect blend of historic charm and contemporary convenience.",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2084&q=80",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "features": [
+      "Original Hardwood Floors",
+      "Updated Kitchen",
+      "Private Garden",
+      "Bay Windows",
+      "Central Heating",
+      "Original Crown Molding",
+      "Storage Basement",
+      "Near Public Transit"
+    ],
+    "yearBuilt": 1908,
+    "listingDate": "2024-01-12T00:00:00.000Z",
+    "coordinates": {
+      "lat": 37.7692,
+      "lng": -122.4481
+    }
+  },
+  {
+    "id": "3",
+    "title": "Luxury High-Rise Condo with City Views",
+    "price": 1250000,
+    "propertyType": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1400,
+    "address": "789 Skyline Avenue, Unit 42A",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98101",
+    "description": "Sophisticated high-rise condominium offering breathtaking city and water views. Features premium finishes, floor-to-ceiling windows, modern kitchen with quartz countertops, in-unit laundry, and access to world-class building amenities including fitness center, rooftop deck, and concierge services.",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2053&q=80",
+      "https://images.unsplash.com/photo-1600566752734-9f55da1f4b96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "features": [
+      "City Views",
+      "Fitness Center",
+      "Rooftop Deck",
+      "Concierge Service",
+      "In-unit Laundry",
+      "Quartz Countertops",
+      "Floor-to-ceiling Windows",
+      "Parking Space Included"
+    ],
+    "yearBuilt": 2020,
+    "listingDate": "2024-01-10T00:00:00.000Z",
+    "coordinates": {
+      "lat": 47.6097,
+      "lng": -122.3331
+    }
+  },
+  {
+    "id": "4",
+    "title": "Spacious Family Home with Pool",
+    "price": 685000,
+    "propertyType": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2800,
+    "address": "321 Oak Ridge Drive",
+    "city": "Austin",
+    "state": "TX",
+    "zipCode": "78731",
+    "description": "Perfect family home in desirable neighborhood featuring open concept living, updated kitchen with granite countertops, master suite with walk-in closet, large backyard with swimming pool and deck. Excellent schools nearby and close to parks and shopping centers.",
+    "images": [
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2075&q=80",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2084&q=80"
+    ],
+    "features": [
+      "Swimming Pool",
+      "Large Deck",
+      "Granite Countertops",
+      "Open Concept",
+      "Master Suite",
+      "Walk-in Closets",
+      "2-Car Garage",
+      "Excellent Schools"
+    ],
+    "yearBuilt": 2015,
+    "listingDate": "2024-01-08T00:00:00.000Z",
+    "coordinates": {
+      "lat": 30.3039,
+      "lng": -97.7544
+    }
+  },
+  {
+    "id": "5",
+    "title": "Modern Downtown Apartment",
+    "price": 425000,
+    "propertyType": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFeet": 850,
+    "address": "555 Metropolitan Way, Unit 15B",
+    "city": "Denver",
+    "state": "CO",
+    "zipCode": "80202",
+    "description": "Stylish downtown apartment in vibrant neighborhood. Features modern finishes, stainless steel appliances, in-unit washer/dryer, private balcony with mountain views. Walking distance to restaurants, shops, and public transportation. Perfect for urban professionals.",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2087&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2053&q=80",
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "features": [
+      "Mountain Views",
+      "Private Balcony",
+      "Stainless Steel Appliances",
+      "In-unit Laundry",
+      "Modern Finishes",
+      "Walking Distance to Transit",
+      "Fitness Center Access",
+      "Urban Location"
+    ],
+    "yearBuilt": 2018,
+    "listingDate": "2024-01-05T00:00:00.000Z",
+    "coordinates": {
+      "lat": 39.7362,
+      "lng": -104.9903
+    }
+  },
+  {
+    "id": "6",
+    "title": "Historic Brownstone with Garden",
+    "price": 1580000,
+    "propertyType": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "squareFeet": 3200,
+    "address": "123 Heritage Lane",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02116",
+    "description": "Elegant restored brownstone in prestigious Back Bay neighborhood. Features original architectural details, updated systems, chef's kitchen, private garden, and parking. Rich in history while offering modern amenities. Steps from the Public Garden and fine dining.",
+    "images": [
+      "https://images.unsplash.com/photo-1600566752734-9f55da1f4b96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2084&q=80"
+    ],
+    "features": [
+      "Historic Architecture",
+      "Private Garden",
+      "Chef's Kitchen",
+      "Original Details",
+      "Parking Included",
+      "Updated Systems",
+      "Near Public Garden",
+      "Premium Location"
+    ],
+    "yearBuilt": 1895,
+    "listingDate": "2024-01-03T00:00:00.000Z",
+    "coordinates": {
+      "lat": 42.3505,
+      "lng": -71.0759
+    }
+  }
+]
